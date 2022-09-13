@@ -1,0 +1,79 @@
+\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry} 
+\usepackage{tkz-euclide}     		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+
+%SetFonts
+
+
+\renewcommand{\thesubsection}{\alph{subsection}}
+
+
+\title{2301NSC Electromagnetism and Optics - Assignment 2}
+\author{Blake Urban - S5046748}
+\date{**-09-22}	% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+%Question 1
+
+\section{}
+
+\subsection{Use the Biot-Savart Law to calculate the magnetic flux density B at the point P in the closed circuit loop shown below (current I flows clockwise): What is the direction of the field at P? }
+
+\subsection{Determine the magnetic dipole m for this loop.}
+
+
+\clearpage
+
+%Question 2
+
+\section{A magnetic vector potential A is in Cartesian coordinates is given by:
+\begin{equation}
+A=5cos(\pi y)\hat{i}+(2+sin(\pi x))\hat{k}
+\end{equation}}
+
+
+\subsection{Find an expression for B.}
+
+
+\subsection{Evaluate B(1,1,1) .}
+
+
+\subsection{Determine the magnetic flux through a square loop placed in the x-y plane with its centre at the origin and with a side length = 2m.}
+
+
+
+\clearpage
+
+%Question 3
+
+\section{A long coaxial cable consists of two thin walled concentric conducting cylinders with radii a and b. The inner cylinder carries a current I (out of page) and the outer provides the return path for that current. The current creates a magnetic field between the two cylinders.}
+
+\subsection{The magnetic flux density B between the conducting cylinders $a<=r<=b$.}
+
+
+\subsection{The magnetic energy density in the same region.}
+
+\subsection{The total energy for a length l of the cable is}
+
+
+
+\subsection{What is the energy stored per unit length of the cable if a = 1.2mm, b=3.5mm, and I=2.7A?}
+
+
+
+\clearpage
+
+%Question 4
+
+\section{We did not discuss it in class, so you will have to find and read the appropriate section of the recommended textbook, or any textbook, or any other resource you can find to answer this question. Describe briefly in your own words purpose, functioning and principle of operation of a transformer. You can draw a diagram if necessary.}
+
+
+\end{document}  
